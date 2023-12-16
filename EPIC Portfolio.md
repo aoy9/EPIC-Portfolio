@@ -13,11 +13,10 @@ Email: ao.eric.yang@gmail.com
 ## EPIC Experience
 
 ### Pi's and Python
-* This course was an introduction to the wide field of computer science, including lessons on computer hardware and the code which allows machines to perform such tasks.
-* Be sure to incorporate your use of professional workforce readiness skills in addition to the content you learned.
+* This course was an introduction to the wide field of computer science, including lessons on computer hardware and the code which allows machines to perform such tasks. Throughout the course there were many instances where effective collaboration assisted greatly in the completion of tasks. Effective and respectful communication and professionalism also ensured that everyone's voices are heard especially when people are advocating or contributing to the classroom.
 
 ### Workforce Readiness
-- What did you learn through these skills being part of EPIC?
+* These skills shaped my understanding of the expectations of a clean, respectful and productive workplace within the industry. Practicing such skills also helped me be more engaged and helpful in collaborative tasks.
 
 ### Professional Experiences
 - Work Site tours
@@ -27,12 +26,12 @@ Email: ao.eric.yang@gmail.com
 
 ---
 ## Projects: 
--  Morse Code - *link to your repo*
-	- This Project's objective was to design a Morse code signaler with a LED light or sound buzzer. The computer (Raspberry Pi) should be able to (1) convert digital user input into a Morse code message and (2) also be able to receive user input in the form of a touch sensor and output messages according to the duration for which the touch sensor is activated.
-	- Describe what skills you used and what you learned during this project
+-  Morse Code - *link to your repo* 
+	- This Project's objective was to design a Morse code signaler with a LED light or sound buzzer. The computer (Raspberry Pi) should be able to (1) convert digital user input into a Morse code message and (2) also be able to receive user input in the form of a touch sensor and output messages according to the duration for which the touch sensor is activated. (Code still on Pi)
+	- I did a lot of researching on how to use the light to interact with the inputs as well as extraction of information from websites that contained Morse code information.
 - Final Project - https://github.com/kobynwinn/plantcam
 	 - This Project is a plant/ecosystem monitor system for situations where plant owners need to leave for extensive periods of time and would like to keep up with their plants as well as the environmental statistics of said plant.
-	- Describe what skills you used and what you learned during this project
+	-  There was a lot of sensor research on modules like the DHT11, Pi cam and other sensors as well. We incorporated HTML code to project the video received by the Pi cam onto a digital website that a browser can access at any given time while the pi is on.
 
 
 ---
