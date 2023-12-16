@@ -42,6 +42,7 @@ Email: ao.eric.yang@gmail.com
 Currently Sophomore Year at Littleton Highschool, Littleton CO
 ## Awards and Certifications
 Link to Certifications and Awards images: https://drive.google.com/drive/folders/1NCxRdHdAFUiqgdhVovObqOZaEbL0Jgon
+
 Littleton Highschool Academic Letter for 3.8+ Cumulative GPA, 2022
 
 Littleton Highschool Student Recognition Award, 2023
