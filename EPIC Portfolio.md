@@ -41,14 +41,14 @@ Email: ao.eric.yang@gmail.com
 3rd - 8th Grade at Slavens K-8 Middle School, Denver CO
 Currently Sophomore Year at Littleton Highschool, Littleton CO
 ## Awards and Certifications
-Littleton Highschool Academic Letter for 3.8+ Cumulative GPA, 2023
-![[20231214_215654.jpg | 400]]
+Link to Certifications and Awards images: https://drive.google.com/drive/folders/1NCxRdHdAFUiqgdhVovObqOZaEbL0Jgon
+Littleton Highschool Academic Letter for 3.8+ Cumulative GPA, 2022
+
 Littleton Highschool Student Recognition Award, 2023
-![[20231214_215533.jpg | 500 ]]
+
 Certified Solid Works Associate - Mechanical Design, 2023
-![[Certificate_C-B2KCJ9PH8S.pdf ]]
+
 Denver Chinese School Outstanding Student Award, 2023
-![[20231214_215801.jpg | 500]]
 ## Skills
 - I am Trilingual, I can speak English and Chinese Mandarin fluently and I am also able to receptively speak Spanish.
 - I am experienced in 3D CAD Design and I can work with Solid Works and Corel Draw effectively.
