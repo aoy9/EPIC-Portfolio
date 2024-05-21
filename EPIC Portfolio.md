@@ -26,6 +26,8 @@ Email: ao.eric.yang@gmail.com
 
 ---
 ## Projects: 
+-  Beyblade Game
+	- This project was a passion project with friends where we coded a simulation of beyblade competitions. Beyblades were a very popular toy from our childhoods and creating this game/project is both a demonstration of passion and the coding knowledge we had learned in a computer science class together. We developed in C# using the Unity Game Engine and added elements such as collision, spin speed, weight and power ups in the project.
 -  Morse Code - *link to your repo* 
 	- This Project's objective was to design a Morse code signaler with a LED light or sound buzzer. The computer (Raspberry Pi) should be able to (1) convert digital user input into a Morse code message and (2) also be able to receive user input in the form of a touch sensor and output messages according to the duration for which the touch sensor is activated. (Code still on Pi)
 	- I did a lot of researching on how to use the light to interact with the inputs as well as extraction of information from websites that contained Morse code information.
